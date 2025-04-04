@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TopDownArenaRuntime.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UE_Lyra_project\Lyra_UE5_4\LyraStarterGame\Intermediate\Build\Win64\x64\LyraEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\UE_Lyra_project\Lyra_UE5_4\LyraStarterGame\Plugins\GameFeatures\TopDownArena\Intermediate\Build\Win64\x64\UnrealEditor\Development\TopDownArenaRuntime\Module.TopDownArenaRuntime.cpp.obj"
+"C:\UE_Lyra_project\Lyra_UE5_4\LyraStarterGame\Plugins\GameFeatures\TopDownArena\Intermediate\Build\Win64\x64\UnrealEditor\Development\TopDownArenaRuntime\LyraCameraMode_TopDownArenaCamera.cpp.obj"
+"C:\UE_Lyra_project\Lyra_UE5_4\LyraStarterGame\Plugins\GameFeatures\TopDownArena\Intermediate\Build\Win64\x64\UnrealEditor\Development\TopDownArenaRuntime\TopDownArenaAttributeSet.cpp.obj"
+"C:\UE_Lyra_project\Lyra_UE5_4\LyraStarterGame\Plugins\GameFeatures\TopDownArena\Intermediate\Build\Win64\x64\UnrealEditor\Development\TopDownArenaRuntime\TopDownArenaMovementComponent.cpp.obj"
+"C:\UE_Lyra_project\Lyra_UE5_4\LyraStarterGame\Plugins\GameFeatures\TopDownArena\Intermediate\Build\Win64\x64\UnrealEditor\Development\TopDownArenaRuntime\TopDownArenaPickupUIData.cpp.obj"
+"C:\UE_Lyra_project\Lyra_UE5_4\LyraStarterGame\Plugins\GameFeatures\TopDownArena\Intermediate\Build\Win64\x64\UnrealEditor\Development\TopDownArenaRuntime\TopDownArenaRuntimeModule.cpp.obj"
+"C:\UE_Lyra_project\Lyra_UE5_4\LyraStarterGame\Plugins\GameFeatures\TopDownArena\Intermediate\Build\Win64\x64\UnrealEditor\Development\TopDownArenaRuntime\Default.rc2.res"
+/OUT:"C:\UE_Lyra_project\Lyra_UE5_4\LyraStarterGame\Plugins\GameFeatures\TopDownArena\Intermediate\Build\Win64\x64\UnrealEditor\Development\TopDownArenaRuntime\UnrealEditor-TopDownArenaRuntime.lib"

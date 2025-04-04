@@ -1,0 +1,37 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\ue_lyra_project\\lyra_ue5_4\\lyrastartergame\\plugins\\gamefeatures\\shootercore\\source\\shootercoreruntime\\private\\input\\aimassisttargetcomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\ue_lyra_project\\lyra_ue5_4\\lyrastartergame\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\ue_lyra_project\\lyra_ue5_4\\lyrastartergame\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shootercoreruntime\\definitions.shootercoreruntime.h",
+            "c:\\ue_lyra_project\\lyra_ue5_4\\lyrastartergame\\plugins\\gamefeatures\\shootercore\\source\\shootercoreruntime\\public\\input\\aimassisttargetcomponent.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\capsulecomponent.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\capsulecomponent.generated.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "c:\\ue_lyra_project\\lyra_ue5_4\\lyrastartergame\\plugins\\gamefeatures\\shootercore\\source\\shootercoreruntime\\public\\input\\iaimassisttargetinterface.h",
+            "c:\\ue_lyra_project\\lyra_ue5_4\\lyrastartergame\\plugins\\gamefeatures\\shootercore\\source\\shootercoreruntime\\public\\input\\aimassistinputmodifier.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\plugins\\runtime\\gameplayabilities\\source\\gameplayabilities\\public\\scalablefloat.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\plugins\\runtime\\dataregistry\\source\\dataregistry\\public\\dataregistryid.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\plugins\\runtime\\dataregistry\\intermediate\\build\\win64\\unrealeditor\\inc\\dataregistry\\uht\\dataregistryid.generated.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\plugins\\runtime\\gameplayabilities\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplayabilities\\uht\\scalablefloat.generated.h",
+            "c:\\ue_lyra_project\\lyra_ue5_4\\lyrastartergame\\source\\lyragame\\input\\lyrainputmodifiers.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputmodifiers.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputmodifiers.generated.h",
+            "c:\\ue_lyra_project\\lyra_ue5_4\\lyrastartergame\\intermediate\\build\\win64\\unrealeditor\\inc\\lyragame\\uht\\lyrainputmodifiers.generated.h",
+            "c:\\ue_lyra_project\\lyra_ue5_4\\lyrastartergame\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\unrealeditor\\inc\\shootercoreruntime\\uht\\aimassistinputmodifier.generated.h",
+            "c:\\ue_lyra_project\\lyra_ue5_4\\lyrastartergame\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\unrealeditor\\inc\\shootercoreruntime\\uht\\iaimassisttargetinterface.generated.h",
+            "c:\\ue_lyra_project\\lyra_ue5_4\\lyrastartergame\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\unrealeditor\\inc\\shootercoreruntime\\uht\\aimassisttargetcomponent.generated.h",
+            "c:\\ue_lyra_project\\lyra_ue5_4\\lyrastartergame\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\unrealeditor\\inc\\shootercoreruntime\\uht\\aimassisttargetcomponent.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

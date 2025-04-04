@@ -1,0 +1,40 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="M_ForestGround_01_Puddle_Inst"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=443EACA04E10882BF3FB6EAD4D0F85C8
+   Parent=Material'"/Game/Forest_Example_Scene/Materials/MasterMaterials/Master_Displacement_Puddle_Blend.Master_Displacement_Puddle_Blend"'
+   bHasStaticPermutationResource=True
+   ScalarParameterValues(0)=(ParameterInfo=(Name="Height Map Intensity"),ParameterValue=5.000000,ExpressionGUID=322EDECB4D4A2A5FDB6DA89B48F8A10F)
+   ScalarParameterValues(1)=(ParameterInfo=(Name="Puddle Blend Contrast"),ParameterValue=0.500000,ExpressionGUID=10564C0B46363E8EED3F25B931B86A84)
+   ScalarParameterValues(2)=(ParameterInfo=(Name="Puddle Blend Falloff"),ExpressionGUID=435B5BBC46EE55D22789899486A3105E)
+   ScalarParameterValues(3)=(ParameterInfo=(Name="Puddle Height"),ParameterValue=-1.000000,ExpressionGUID=7EF4959A429CE8DDB9B82AB763C3E0FF)
+   ScalarParameterValues(4)=(ParameterInfo=(Name="Puddle Ripple Intensity"),ParameterValue=2.000000,ExpressionGUID=0541F6A242A4D37DF3DF69A154D265BA)
+   ScalarParameterValues(5)=(ParameterInfo=(Name="Puddle Wind Intensity"),ParameterValue=1.000000,ExpressionGUID=A098D747480C0231F777DFBF2BD69958)
+   ScalarParameterValues(6)=(ParameterInfo=(Name="Tiling"),ParameterValue=1.000000,ExpressionGUID=48B2BA0245B141164B40DBACD15EBE61)
+   ScalarParameterValues(7)=(ParameterInfo=(Name="RefractionDepthBias"))
+   VectorParameterValues(0)=(ParameterInfo=(Name="Puddle Color"),ParameterValue=(R=0.125000,G=0.125000,B=0.125000,A=0.000000),ExpressionGUID=E4CD4C454BAB51068851F899D837EB6E)
+   TextureParameterValues(0)=(ParameterInfo=(Name="Albedo Texture (Color)"),ParameterValue=Texture2D'"/Game/Forest_Example_Scene/Materials/M_ForestGround_01/T_ForestGround_Albedo.T_ForestGround_Albedo"',ExpressionGUID=60ED6E1D4105A7FC129258BC5952245E)
+   TextureParameterValues(1)=(ParameterInfo=(Name="Ambient Occlusion Texture"),ParameterValue=Texture2D'"/Game/Forest_Example_Scene/Materials/M_ForestGround_01/T_ForestGround_AO.T_ForestGround_AO"',ExpressionGUID=DF09B37F4FA18963AA28E9B00F3A2332)
+   TextureParameterValues(2)=(ParameterInfo=(Name="Blend Mask Texture (Height)"),ParameterValue=Texture2D'"/Game/Forest_Example_Scene/Materials/M_ForestGround_01/T_ForestGround_Displacement.T_ForestGround_Displacement"',ExpressionGUID=7E3DC2674A12DD1CE4861F8019975749)
+   TextureParameterValues(3)=(ParameterInfo=(Name="Height Texture"),ParameterValue=Texture2D'"/Game/Forest_Example_Scene/Materials/M_ForestGround_01/T_ForestGround_Displacement.T_ForestGround_Displacement"',ExpressionGUID=441D35D0444B722BC8438E86A6779806)
+   TextureParameterValues(4)=(ParameterInfo=(Name="Normal Texture"),ParameterValue=Texture2D'"/Game/Forest_Example_Scene/Materials/M_ForestGround_01/T_ForestGround_Normal.T_ForestGround_Normal"',ExpressionGUID=E5C03DC9443FF86DC4F7D79B5727F085)
+   TextureParameterValues(5)=(ParameterInfo=(Name="Roughness Texture"),ParameterValue=Texture2D'"/Game/Forest_Example_Scene/Materials/M_ForestGround_01/T_ForestGround_Roughness.T_ForestGround_Roughness"',ExpressionGUID=E38E159C4FEC0EF9763844A65C8E397A)
+   BasePropertyOverrides=(OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=A6C3595D447763B907F938B3F07F9572
+   ReferencedTextureGuids(1)=48B8DE6F48D4852955F411905F14BE72
+   ReferencedTextureGuids(2)=B33644D24A0BF360BCFBDC816CF08CEC
+   ReferencedTextureGuids(3)=79EAC8E64DD57823C86EFA80BA61106F
+   ReferencedTextureGuids(4)=00301585489116F0E03F4FBD436B8459
+   ReferencedTextureGuids(5)=93B50C71467AF5B4A548999E8652EBA6
+   ReferencedTextureGuids(6)=3E718C524F59B5D21ADA1AA3BF55404A
+   StaticParameters=(StaticSwitchParameters=((ParameterInfo=(Name="Enable Height Fade (Use if Tesselation is enabled)"),Value=True,bOverride=True,ExpressionGUID=EB2C0A3047F2689F49C5B691A8A5D59F),(ParameterInfo=(Name="Enable Puddle Ripples"),Value=True,bOverride=True,ExpressionGUID=E3DC23804F349A208A788F8131B1DE04),(ParameterInfo=(Name="Enable Tesselation"),Value=True,bOverride=True,ExpressionGUID=5A85CA8240546ABBE8E152A3DA64DB11),(ParameterInfo=(Name="Use X or Y"),bOverride=True,ExpressionGUID=4857CB734B11F2889948209AEEC0E7D3)))
+   TextureStreamingDataVersion=1
+   TextureStreamingData(0)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="T_ForestGround_AO",TextureReference=/Game/Forest_Example_Scene/Materials/M_ForestGround_01/T_ForestGround_AO.T_ForestGround_AO)
+   TextureStreamingData(1)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="T_ForestGround_Normal",TextureReference=/Game/Forest_Example_Scene/Materials/M_ForestGround_01/T_ForestGround_Normal.T_ForestGround_Normal)
+   TextureStreamingData(2)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="T_ForestGround_Roughness",TextureReference=/Game/Forest_Example_Scene/Materials/M_ForestGround_01/T_ForestGround_Roughness.T_ForestGround_Roughness)
+   TextureStreamingData(3)=(SamplingScale=2.000000,UVChannelIndex=0,TextureName="T_WaterNoise_01A",TextureReference=/Game/Forest_Example_Scene/Materials/MasterMaterials/Water/T_WaterNoise_01A.T_WaterNoise_01A)
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=0CCD7EB1457579CC6EAED18E539DC516
+End Object

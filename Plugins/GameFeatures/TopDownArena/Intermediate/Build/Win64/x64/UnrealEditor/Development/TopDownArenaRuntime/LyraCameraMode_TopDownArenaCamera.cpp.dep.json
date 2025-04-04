@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\ue_lyra_project\\lyra_ue5_4\\lyrastartergame\\plugins\\gamefeatures\\topdownarena\\source\\topdownarenaruntime\\private\\lyracameramode_topdownarenacamera.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\ue_lyra_project\\lyra_ue5_4\\lyrastartergame\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\ue_lyra_project\\lyra_ue5_4\\lyrastartergame\\plugins\\gamefeatures\\topdownarena\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\topdownarenaruntime\\definitions.topdownarenaruntime.h",
+            "c:\\ue_lyra_project\\lyra_ue5_4\\lyrastartergame\\plugins\\gamefeatures\\topdownarena\\source\\topdownarenaruntime\\public\\lyracameramode_topdownarenacamera.h",
+            "c:\\ue_lyra_project\\lyra_ue5_4\\lyrastartergame\\source\\lyragame\\camera\\lyracameramode.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "c:\\ue_lyra_project\\lyra_ue5_4\\lyrastartergame\\intermediate\\build\\win64\\unrealeditor\\inc\\lyragame\\uht\\lyracameramode.generated.h",
+            "c:\\ue_lyra_project\\lyra_ue5_4\\lyrastartergame\\plugins\\gamefeatures\\topdownarena\\intermediate\\build\\win64\\unrealeditor\\inc\\topdownarenaruntime\\uht\\lyracameramode_topdownarenacamera.generated.h",
+            "c:\\ue_lyra_project\\lyra_ue5_4\\lyrastartergame\\plugins\\gamefeatures\\topdownarena\\intermediate\\build\\win64\\unrealeditor\\inc\\topdownarenaruntime\\uht\\lyracameramode_topdownarenacamera.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
